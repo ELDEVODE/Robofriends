@@ -1,4 +1,7 @@
 # robofriends
+
+![](https://i.ibb.co/dQZLJkg/robofriends.jpg)
+
 Tutorial for React
 To run the project:
 
